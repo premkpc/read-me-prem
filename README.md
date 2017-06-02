@@ -1,1 +1,5 @@
-# read-me-prem
+ # read-me-prem
+ 
+ hello friends 
+ 
+ i like c++ and R 
